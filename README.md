@@ -52,7 +52,7 @@ htmlToRtf.saveRtfInFile('<Path>/<FileName>.rtf', htmlToRtf.convertHtmlToRtf(html
 ```html
 <b>, <br>, <center>, <div>, <em>, <font>, <h1>, <h2>, <h3>, <h4>,
 <h5>, <h6>, <i>, <li>, <mark>, <p>, <ol>, <s>, <span>, <sub>, <sup>,
-<strong>, <table>, <td>, <th>, <tr>, <u>, <ul>
+<strong>, <table>, <td>, <th>, <tr>, <u>, <ul>, <img>
 ```
 ### Allowed style properties
 
